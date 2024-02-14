@@ -1,3 +1,8 @@
-## Data Science Project Template
+# Excercise Tracker
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+This is a Python Data Science Project for tracking the different Excercises performed by the user.
+
+Different Excercises tracked:
+
+1. Bench Press
+2.
